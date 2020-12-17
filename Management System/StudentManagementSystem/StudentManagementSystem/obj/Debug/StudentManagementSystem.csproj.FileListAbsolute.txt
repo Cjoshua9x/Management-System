@@ -1,0 +1,54 @@
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Debug\MySql.Data.dll
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Debug\MySql.Data.xml
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form2.resources
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form3.resources
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form4.resources
+c:\users\administrator\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form5.resources
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form1.resources
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form2.resources
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form3.resources
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form4.resources
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form5.resources
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form6.resources
+C:\Users\Administrator\Desktop\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form7.resources
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\mscorlib.dll
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\MySql.Data.xml
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\normidna.nlp
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\normnfc.nlp
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\normnfd.nlp
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\normnfkc.nlp
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\normnfkd.nlp
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form1.resources
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form2.resources
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form3.resources
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form4.resources
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form5.resources
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form6.resources
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form7.resources
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\marteops\Documents\Visual Studio 2010\Projects\Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.Cache
